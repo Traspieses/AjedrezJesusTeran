@@ -1,0 +1,5 @@
+{
+  "name": "10/12-01:43 Copy of Jetema - Motor de Ajedrez Capablanca",
+  "description": "Una aplicación de ajedrez sofisticada que emula el estilo posicional de José Raúl Capablanca usando Stockfish 16 y heurísticas personalizadas.",
+  "requestFramePermissions": []
+}
